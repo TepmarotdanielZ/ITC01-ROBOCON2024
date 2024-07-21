@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:125:5:Map	24	static
+../Core/Src/freertos.c:145:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:159:6:MX_FREERTOS_Init	104	static
+../Core/Src/freertos.c:207:6:Stepper_Init	24	static
+../Core/Src/freertos.c:241:6:Take_Rice_Init	16	static
+../Core/Src/freertos.c:292:6:Drop_RiceInit	16	static

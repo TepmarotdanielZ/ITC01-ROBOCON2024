@@ -1,0 +1,6 @@
+freertos.c:125:5:Map	1
+freertos.c:145:6:vApplicationGetIdleTaskMemory	1
+freertos.c:159:6:MX_FREERTOS_Init	1
+freertos.c:207:6:Stepper_Init	5
+freertos.c:241:6:Take_Rice_Init	12
+freertos.c:292:6:Drop_RiceInit	3
