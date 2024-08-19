@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kenotic/ros2web_ws/install/web_video_server/include/**",
+        "/home/kenotic/ros2web_ws/install/rosbridge_test_msgs/include/**",
+        "/home/kenotic/ros2web_ws/install/rosbridge_msgs/include/**",
+        "/home/kenotic/ros2web_ws/install/rosapi_msgs/include/**",
+        "/opt/ros/foxy/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
