@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kenotic/farmer_ws/install/farmer_robot/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosbridge_test_msgs/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosbridge_server/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosbridge_msgs/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosapi/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosbridge_library/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosapi_msgs/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kenotic/farmer_ws/install/farmer_robot/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosbridge_test_msgs/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosbridge_server/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosbridge_msgs/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosapi/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosbridge_library/lib/python3.8/site-packages",
+        "/home/kenotic/ros2web_ws/install/rosapi_msgs/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
