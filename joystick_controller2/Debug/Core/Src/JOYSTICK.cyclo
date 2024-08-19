@@ -1,0 +1,2 @@
+JOYSTICK.c:20:6:JoyStick_Init	10
+JOYSTICK.c:74:6:JoyStick_Read	1

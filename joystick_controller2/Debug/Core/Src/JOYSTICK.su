@@ -1,0 +1,2 @@
+../Core/Src/JOYSTICK.c:20:6:JoyStick_Init	48	static
+../Core/Src/JOYSTICK.c:74:6:JoyStick_Read	24	static
