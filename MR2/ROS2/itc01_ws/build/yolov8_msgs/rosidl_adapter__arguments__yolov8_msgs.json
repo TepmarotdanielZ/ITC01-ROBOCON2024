@@ -1,0 +1,7 @@
+{
+  "package_name": "yolov8_msgs",
+  "non_idl_tuples": [
+    "/home/jsagx-6/itc01_ws/src/itc01_mr2/yolov8_msgs:msg/InferenceResult.msg",
+    "/home/jsagx-6/itc01_ws/src/itc01_mr2/yolov8_msgs:msg/Yolov8Inference.msg"
+  ]
+}

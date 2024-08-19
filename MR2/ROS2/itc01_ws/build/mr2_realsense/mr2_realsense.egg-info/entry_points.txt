@@ -1,0 +1,22 @@
+[console_scripts]
+realsense_depth = mr2_realsense.realsense_depth:main
+realsense_pub = mr2_realsense.realsense_pub_image:main
+realsense_pub02 = mr2_realsense.realsense_pub_image02:main
+webcam_pub = mr2_realsense.webcam_pub:main
+yolo_ball_pub = mr2_realsense.yolo_ball_pub:main
+yolo_ball_pub02 = mr2_realsense.yolo_ball_pub02:main
+yolo_pub_8 = mr2_realsense.test_opencv_8_pub:main
+yolov8_2rs01 = mr2_realsense.yolov8_2rs01:main
+yolov8_2rs02 = mr2_realsense.yolov8_2rs02:main
+yolov8_blue = mr2_realsense.yolov8_ro01_Blue:main
+yolov8_rs = mr2_realsense.yolov8_rs:main
+yolov8_rs03 = mr2_realsense.yolov8_rs03:main
+yolov8_rs04 = mr2_realsense.yolov8_rs04:main
+yolov8_rs05 = mr2_realsense.yolov8_rs05:main
+yolov8_rs06 = mr2_realsense.yolov8_rs06:main
+yolov8_rs07 = mr2_realsense.yolov8_rs07:main
+yolov8_rs08 = mr2_realsense.yolov8_rs08:main
+yolov8_webcam = mr2_realsense.yolov8_webcam:main
+yolov9_blue = mr2_realsense.yolov9_rs_blue:main
+yolov9_red = mr2_realsense.yolov9_rs_red:main
+

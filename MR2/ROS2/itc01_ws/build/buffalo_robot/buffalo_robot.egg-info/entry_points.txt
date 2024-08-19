@@ -1,0 +1,32 @@
+[console_scripts]
+Omni_PidSim = buffalo_robot.Omni_PidSim:main
+Omni_model = buffalo_robot.Omni_model:main
+buffalo_sim = bbuffalo_robot.pid_simulation:main
+buffalov1 = buffalo_robot.mecanum_pidV1:main
+buffalov2 = buffalo_robot.mecanum_pidV2:main
+cal_goal = buffalo_robot.Calculate_position_Red:main
+can_blue = buffalo_robot.can_buffalo_Blue:main
+can_buffalo = buffalo_robot.can_buffaloV1:main
+can_buffaloV2 = buffalo_robot.can_buffaloV2:main
+can_buffaloV3 = buffalo_robot.can_buffaloV3:main
+can_buffaloV4 = buffalo_robot.Can_buffaloV4:main
+can_motor = buffalo_robot.can_control_Motor:main
+can_red = buffalo_robot.can_buffalo_Red:main
+can_rotary = buffalo_robot.can_rotary_buffalo:main
+imu = buffalo_robot.imu:main
+imu_cal = buffalo_robot.imu_calibrate:main
+imu_ha9 = buffalo_robot.imu_HFI_a9:main
+omni_mpcsim = buffalo_robot.omni_mpcSimV1:main
+omni_mpcv1 = buffalo_robot.omni_mpcV1:main
+omni_mpcv2 = buffalo_robot.omni_mpcV2:main
+omni_pidBlue = buffalo_robot.omni_pidV6_Blue:main
+omni_pidRed = buffalo_robot.omni_pidV6_RED:main
+omni_pidRedV0 = buffalo_robot.omni_pid_RedV0:main
+omni_pidv1 = buffalo_robot.omni_pidV1:main
+omni_pidv2 = buffalo_robot.omni_pidV2:main
+omni_pidv3 = buffalo_robot.omni_pidV3:main
+omni_pidv4 = buffalo_robot.omni_pidV4:main
+omni_teleop = buffalo_robot.teleopkeybord_omni:main
+ps4 = buffalo_robot.ps4_control:main
+ps4v2 = buffalo_robot.ps4_controlV2:main
+
