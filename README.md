@@ -15,3 +15,6 @@ ABU ROBOCON, short for the Asia-Pacific Robot Contest, stands as a premier robot
 
 
 We are a group of fourth-year students hailing from the Institute of Technology of Cambodia, specializing in Electrical and Energy Engineering, with a major focus on Electronics and Automation. Throughout our journey, we have received invaluable guidance from our dedicated teachers and the wisdom of our seniors, who have played an instrumental role in our pursuit of robot design.
+
+![IMG_6146](https://github.com/user-attachments/assets/3a8efb87-c5c5-4480-ad45-c1c8f237b0c6)
+
