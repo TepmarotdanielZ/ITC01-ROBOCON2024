@@ -27,3 +27,19 @@ We are a group of fourth-year students hailing from the Institute of Technology 
 ![IMG_7035](https://github.com/user-attachments/assets/f30443f4-e98d-4f96-af33-c3e525e8ad70)
 
 Our preparation for the robot contest was a true educational odyssey. We conducted extensive research into cutting-edge technologies, striving to ensure that our robots would stand at the vanguard of innovation.
+
+## ELECTRONIC
+
+In the realm of electronics, we chose the STM32 microcontroller as the linchpin of our robot's operation. This powerful core was instrumental in managing and controlling the myriad sensors embedded within our robot. Leveraging the flexibility and data scalability offered by CAN-Bus communication over Serial-UART, we also took it upon ourselves to design and implement our proprietary module board.
+
+## PROGRAM ROS2
+
+Our programming endeavors extended beyond mere microcontroller programming. We embarked on a challenging journey to comprehend and harness the capabilities of the Robotics Operating System 2, or ROS2. ROS2 proved to be a versatile software framework, enriched with a treasure trove of open-source software. It facilitated the seamless integration of third-party libraries and frameworks, ultimately bestowing our robot with enhanced functionality
+
+The Robot Operating System (ROS) is a set of software libraries and tools for building robot applications. From drivers and state-of-the-art algorithms to powerful developer tools, ROS has the open source tools you need for your next robotics project.
+
+Since ROS was started in 2007, a lot has changed in the robotics and ROS community. The goal of the ROS 2 project is to adapt to these changes, leveraging what is great about ROS 1 and improving what isn’t.
+
+![image](https://github.com/user-attachments/assets/5f35d308-fed7-4cf2-bff1-ef44dfbd994e)
+
+
