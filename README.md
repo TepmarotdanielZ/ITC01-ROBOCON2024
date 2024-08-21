@@ -40,6 +40,7 @@ The Robot Operating System (ROS) is a set of software libraries and tools for bu
 
 Since ROS was started in 2007, a lot has changed in the robotics and ROS community. The goal of the ROS 2 project is to adapt to these changes, leveraging what is great about ROS 1 and improving what isn’t.
 
-![image](https://github.com/user-attachments/assets/5f35d308-fed7-4cf2-bff1-ef44dfbd994e)
+![image](https://github.com/user-attachments/assets/5e34fadd-3781-489c-9819-7779a5f4d12c)
+
 
 
