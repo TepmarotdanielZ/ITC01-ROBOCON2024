@@ -54,4 +54,8 @@ STM32CubeIDE also includes standard and advanced debugging features including vi
 
 ![image](https://github.com/user-attachments/assets/a8d8470c-d16f-46cc-b103-7456e9b0dab7)
 
+##  MICROCONTROLLER
 
+The microcontroller functions similarly to a brain. It's a simple IC (integrated circuit). The term "micro" refers to a tiny size. Everything is growing smaller in size and performing faster in our technology. Microcontrollers are used in automatically controlled products and devices, such as automobile engine control systems, implantable medical devices, remote controls, office machines, appliances, power tools, toys and other embedded systems. By reducing the size and cost compared to a design that uses a separate microprocessor, memory, and input/output devices, microcontrollers make it economical to control even more devices and processes digitally. In this project, we chose STM32CubeIDE (STM32F407VE)
+
+![image](https://github.com/user-attachments/assets/b9432072-b2b5-4ca3-b606-5fcc148d5692)
