@@ -52,5 +52,6 @@ STM32CubeIDE includes build and stack analyzers that provide the user with usefu
 
 STM32CubeIDE also includes standard and advanced debugging features including views of CPU core registers, memories, and peripheral registers, as well as live variable watch, Serial Wire Viewer interface, or fault analyzer.
 
-![image](https://github.com/user-attachments/assets/1d681283-9095-4732-8ff6-36abcdd1da1d)
+![image](https://github.com/user-attachments/assets/a8d8470c-d16f-46cc-b103-7456e9b0dab7)
+
 
