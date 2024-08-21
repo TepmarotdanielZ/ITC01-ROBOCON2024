@@ -25,3 +25,5 @@ We are a group of fourth-year students hailing from the Institute of Technology 
 ![IMG_7036](https://github.com/user-attachments/assets/83d24080-abad-4b90-830d-09165362660a)
 
 ![IMG_7035](https://github.com/user-attachments/assets/f30443f4-e98d-4f96-af33-c3e525e8ad70)
+
+Our preparation for the robot contest was a true educational odyssey. We conducted extensive research into cutting-edge technologies, striving to ensure that our robots would stand at the vanguard of innovation.
