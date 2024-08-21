@@ -59,3 +59,10 @@ STM32CubeIDE also includes standard and advanced debugging features including vi
 The microcontroller functions similarly to a brain. It's a simple IC (integrated circuit). The term "micro" refers to a tiny size. Everything is growing smaller in size and performing faster in our technology. Microcontrollers are used in automatically controlled products and devices, such as automobile engine control systems, implantable medical devices, remote controls, office machines, appliances, power tools, toys and other embedded systems. By reducing the size and cost compared to a design that uses a separate microprocessor, memory, and input/output devices, microcontrollers make it economical to control even more devices and processes digitally. In this project, we chose STM32CubeIDE (STM32F407VE)
 
 ![image](https://github.com/user-attachments/assets/b9432072-b2b5-4ca3-b606-5fcc148d5692)
+
+##  MECHANICAL
+
+Despite the absence of comprehensive coursework in mechanical design, we undertook the daunting task of crafting our robot's mechanical components. This year's mechanical design posed a formidable challenge, yet our determination and perseverance paid off as we completed both robots well in advance of the competition.
+Presenting Our Remarkable Robots 😍
+
+ 
