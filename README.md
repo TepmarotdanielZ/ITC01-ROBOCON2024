@@ -84,3 +84,16 @@ Presenting Our Remarkable Robots 😍
  ## THE ROBOT MR2:
  
 ![450807296_122114808044364765_1797713317250215450_n](https://github.com/user-attachments/assets/4cbb6266-f319-4809-9ff6-1f6250bb48c1)
+
+## GLIMPSES OF TESTING AND COMPETITION DAYS
+
+The testing and competition days were brimming with exhilaration and boundless excitement! 😄
+
+![451542601_122115502370364765_3538436858052352549_n](https://github.com/user-attachments/assets/e0911189-6be6-48bc-b5d5-2903702fcf2a)
+
+![450835017_122114805638364765_7521362214932732036_n](https://github.com/user-attachments/assets/e53642b2-c38c-43ca-a0fd-d3a815dd02ba)
+
+![450736965_122114802656364765_4766248115248855285_n](https://github.com/user-attachments/assets/538fda7f-2279-473b-abb3-a2d6facc3ef8)
+
+![450623547_122114804732364765_8418151515757734601_n](https://github.com/user-attachments/assets/8365f7b1-868a-4635-94cb-4d8c8eef3876)
+
