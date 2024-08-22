@@ -9,9 +9,7 @@ ABU ROBOCON, short for the Asia-Pacific Robot Contest, stands as a premier robot
 
 ##    WHY IS IT SIGNIFICANT THIS YEAR?
 
-Founded in 1970, Vietnam Television (VTV) is the national television broadcaster of Vietnam. VTV's regional broadcasting centers are located in Ha Noi, Ho Chi Minh City, Da Nang, and Can Tho. Programming is relayed nationwide via a network of provincial and municipal television stations. VTV currently operates bureau offices with staff and correspondents in the United States, European Union, Singapore, Japan, China, Russia, United Arab Emirates, Laos, Cambodia and sends reporters to all over the world to report news, produce documentary and make video conferences.
 
-Besides traditional broadcasting business, VTV has recently offered new streaming video on demand service (SVOD) under VTVGo brand, online newspaper vtv.vn and bi-weekly VTV Magazine. It also owns Vietnam Television Film Center (VFC), one of the major film studios in Vietnam.
 
 ##    WHO WE ARE?
 
