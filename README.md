@@ -65,4 +65,9 @@ The microcontroller functions similarly to a brain. It's a simple IC (integrated
 Despite the absence of comprehensive coursework in mechanical design, we undertook the daunting task of crafting our robot's mechanical components. This year's mechanical design posed a formidable challenge, yet our determination and perseverance paid off as we completed both robots well in advance of the competition.
 Presenting Our Remarkable Robots 😍
 
+  MECHANIC MR1
+
+![image](https://github.com/user-attachments/assets/cab65b1e-d834-4a1d-8d9f-7b9da6c2e830)
+
+
  
