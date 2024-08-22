@@ -77,11 +77,11 @@ Presenting Our Remarkable Robots 😍
 
 ![image](https://github.com/user-attachments/assets/7da3156a-7eed-4035-980e-5ce30bb833d2)
 
- ## THE ROBOT MR1:
+ ## THE ROBOT MR1 (REPRESESNTED FAEMER):
 
 ![450750635_122114807870364765_136299645399880565_n](https://github.com/user-attachments/assets/42a9a5c7-4736-4d6d-8884-8a159ef7e311)
 
- ## THE ROBOT MR2:
+ ## THE ROBOT MR2 (REPRESENTED BUFFALO (AUTONOMOUS ROBOT):
  
 ![450807296_122114808044364765_1797713317250215450_n](https://github.com/user-attachments/assets/4cbb6266-f319-4809-9ff6-1f6250bb48c1)
 
