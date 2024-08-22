@@ -97,3 +97,23 @@ The testing and competition days were brimming with exhilaration and boundless e
 
 ![450623547_122114804732364765_8418151515757734601_n](https://github.com/user-attachments/assets/8365f7b1-868a-4635-94cb-4d8c8eef3876)
 
+## THE GAME OF ROBOCON
+
+  - Terraced fields
+
+For thousands of years, rice has been closely associated with the people of
+Vietnam. Rice not only provides sustenance but also becomes a beautiful aspect
+of the cultural and spiritual life of the Vietnamese people. Nowadays, rice
+serves as both a vital food source and a strategic export commodity for
+Vietnam.
+
+
+
+There is a unique form of cultivation in the traditional agricultural practices of the
+people living in the highland regions of Vietnam, known as terraced fields.
+
+![Uploading image.png…]()
+
+
+
+
