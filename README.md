@@ -1,4 +1,4 @@
-![450750635_122114807870364765_136299645399880565_n](https://github.com/user-attachments/assets/1967476e-3300-40e5-a0d9-7f60ac7c3ba4)## Latest Activity
+## Latest Activity
 ##   ITC01-ABU ROBOCON 2024
 ##   My competition in ABU ROBOCON 2024 with teams ITC01
 
@@ -131,4 +131,26 @@ highlight in tourism, attracting many domestic and international tourists. They 
 ![Screenshot 2024-08-22 184901](https://github.com/user-attachments/assets/40db3e76-73e4-4275-baa2-4ef37a757931)
 
 
-Drawing inspiration from cultivation on terraced fields, the ABU Robocon 2024 contest hosted by Vietnam, has developed robot tasks that depict the stages of rice cultivation. These tasks include sowing, harvesting, and transporting the harvested grains to the warehouse. The underlying message is 'Efficient cultivation brings a warm and prosperous life for everyone”
+Drawing inspiration from cultivation on terraced fields, the ABU Robocon 2024 contest hosted by Vietnam, has developed robot tasks that 
+depict the stages of rice cultivation. These tasks include sowing, harvesting, and transporting the harvested grains to the warehouse. The underlying message is 'Efficient cultivation brings a warm and prosperous life for everyone”
+
+## GAME FIELD OF ROBOCON 2024
+
+![Screenshot 2024-08-22 190529](https://github.com/user-attachments/assets/7bac4ae7-e04f-4a52-a504-dfd8654d5534)
+
+
+## SENSOR OF ROBOT
+
+  1. NVIDIA Jetson AGX Xavier Developer Kit
+
+The Jetson AGX Xavier features a NVIDIA Volta 512 core GPU with 64 Tensor cores. Eight Carmel cores (NVIDIA’s own custom 64-bit ARM cores) make up the CPU complex, in 4 dual-core clusters. The cores implement ARMv8.2 with RAS support. All cores are cache coherent, which extends to the GPU and other onboard accelerators.
+
+The Xavier incorporates dual Programmable Vision Accelerators (PVAs) for helping with common computer vision processing tasks.
+
+Another accelerators on the Tegra chip is the Deep Learning Accelerator (DLA), a hardware implementation of the NVIDIA NVDLA architecture.
+
+Some great information about the actual Tegra Xavier chip is available on WikiChip: Tegra Xavier.
+
+
+  2. IMU 
+
