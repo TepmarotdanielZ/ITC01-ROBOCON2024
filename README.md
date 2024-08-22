@@ -107,13 +107,28 @@ of the cultural and spiritual life of the Vietnamese people. Nowadays, rice
 serves as both a vital food source and a strategic export commodity for
 Vietnam.
 
+![Screenshot 2024-08-22 184731](https://github.com/user-attachments/assets/fb763cf3-5055-4fe7-88e8-2f423c98fa2b)
 
 
 There is a unique form of cultivation in the traditional agricultural practices of the
 people living in the highland regions of Vietnam, known as terraced fields.
 
-![Uploading image.png…]()
+
+![Screenshot 2024-08-22 184814](https://github.com/user-attachments/assets/92d7f7f0-6647-40b9-864a-eaea24cedc27)
 
 
+The remarkable feature of terraced fields is that during the harvest season from around June to October, the mountain slopes
+resemble a piece of artistic painting carved into the mountains by the local farmers.
 
 
+![Screenshot 2024-08-22 184834](https://github.com/user-attachments/assets/25b1785d-b6ca-4091-9d42-b8caeeda6a18)
+
+
+The terraced fields are not only beautiful but also the 'rice granary' of the highland people, utilizing the natural conditions for effective cultivation and providing a warm and prosperous life. With these significances, in recent years, terraced fields have become a
+highlight in tourism, attracting many domestic and international tourists. They have become a cultural beauty and a source of pride for the Vietnamese people.
+
+
+![Screenshot 2024-08-22 184901](https://github.com/user-attachments/assets/40db3e76-73e4-4275-baa2-4ef37a757931)
+
+
+Drawing inspiration from cultivation on terraced fields, the ABU Robocon 2024 contest hosted by Vietnam, has developed robot tasks that depict the stages of rice cultivation. These tasks include sowing, harvesting, and transporting the harvested grains to the warehouse. The underlying message is 'Efficient cultivation brings a warm and prosperous life for everyone”
