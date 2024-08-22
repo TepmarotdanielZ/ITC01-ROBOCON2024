@@ -9,7 +9,11 @@ ABU ROBOCON, short for the Asia-Pacific Robot Contest, stands as a premier robot
 
 ##    WHY IS IT SIGNIFICANT THIS YEAR?
 
-The 2024 Asia-Pacific Robocon will be hosted by Vietnam. The theme of the competition is “Harvest Day,” inspired by rice cultivation on terraced fields. The balls will represent the rice grains that need to be harvested in the fields.
+The 2024 Asia-Pacific Robocon will be hosted by Vietnam.
+
+The theme of the competition is “Harvest Day,” inspired by rice cultivation on terraced fields. The balls will represent the rice grains that need to be harvested in the fields. The participating robots will have to perform tasks simulating the rice growing process, from sowing to harvesting.
+
+This year's competition attracted 13 teams from 12 countries and territories.
 
 ##    WHO WE ARE?
 
