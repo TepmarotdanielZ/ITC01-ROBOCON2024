@@ -152,5 +152,13 @@ Another accelerators on the Tegra chip is the Deep Learning Accelerator (DLA), a
 Some great information about the actual Tegra Xavier chip is available on WikiChip: Tegra Xavier.
 
 
-  2. IMU 
+  2. PI CONTROL ON SPEED  DC MOTOR
+  2.1 FIND MODELING DC MOTOR
+
+![image](https://github.com/user-attachments/assets/7338b2b4-15c8-499b-b16e-e0fe898c8b55)
+
+  - ELECTRICAL PART : 
+
+
+       
 
