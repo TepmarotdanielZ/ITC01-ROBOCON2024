@@ -69,11 +69,11 @@ The microcontroller functions similarly to a brain. It's a simple IC (integrated
 Despite the absence of comprehensive coursework in mechanical design, we undertook the daunting task of crafting our robot's mechanical components. This year's mechanical design posed a formidable challenge, yet our determination and perseverance paid off as we completed both robots well in advance of the competition.
 Presenting Our Remarkable Robots 😍
 
-  - MECHANIC MR2
+  **- MECHANIC MR2**
 
 ![image](https://github.com/user-attachments/assets/cab65b1e-d834-4a1d-8d9f-7b9da6c2e830)
 
-  - MECHANIC MR1 AND MR2
+  **- MECHANIC MR1 AND MR2&**
 
 ![image](https://github.com/user-attachments/assets/7da3156a-7eed-4035-980e-5ce30bb833d2)
 
@@ -99,7 +99,7 @@ The testing and competition days were brimming with exhilaration and boundless e
 
 ## THE GAME OF ROBOCON
 
-  - Terraced fields
+  **- Terraced fields**
 
 For thousands of years, rice has been closely associated with the people of
 Vietnam. Rice not only provides sustenance but also becomes a beautiful aspect
@@ -141,7 +141,7 @@ depict the stages of rice cultivation. These tasks include sowing, harvesting, a
 
 ## SENSOR OF ROBOT
 
-  1. NVIDIA Jetson AGX Xavier Developer Kit
+  **1. NVIDIA Jetson AGX Xavier Developer Kit**
 
 The Jetson AGX Xavier features a NVIDIA Volta 512 core GPU with 64 Tensor cores. Eight Carmel cores (NVIDIA’s own custom 64-bit ARM cores) make up the CPU complex, in 4 dual-core clusters. The cores implement ARMv8.2 with RAS support. All cores are cache coherent, which extends to the GPU and other onboard accelerators.
 
@@ -152,15 +152,15 @@ Another accelerators on the Tegra chip is the Deep Learning Accelerator (DLA), a
 Some great information about the actual Tegra Xavier chip is available on WikiChip: Tegra Xavier.
 
 
-  2. PI CONTROL ON SPEED  DC MOTOR
-  2.1 FIND MODELING DC MOTOR
+  **2. PI CONTROL ON SPEED  DC MOTOR**
+  **2.1 FIND MODELING DC MOTOR**
 
 ![image](https://github.com/user-attachments/assets/7338b2b4-15c8-499b-b16e-e0fe898c8b55)
 
-  - ELECTRICAL PART :
+ **- ELECTRICAL PART :**
     
-
+$$
     **v = La di/dt + Raia + Kbω**
-
+$$
        
 
