@@ -157,8 +157,10 @@ Some great information about the actual Tegra Xavier chip is available on WikiCh
 
 ![image](https://github.com/user-attachments/assets/7338b2b4-15c8-499b-b16e-e0fe898c8b55)
 
+  - ELECTRICAL PART :
+    
 $$
-  - ELECTRICAL PART :  v = La di/dt + Raia + Kbω
+    v = La di/dt + Raia + Kbω
 $$
        
 
