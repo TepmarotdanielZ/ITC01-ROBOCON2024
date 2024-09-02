@@ -143,13 +143,12 @@ depict the stages of rice cultivation. These tasks include sowing, harvesting, a
 
   **1. NVIDIA Jetson AGX Xavier Developer Kit**
 
-The Jetson AGX Xavier features a NVIDIA Volta 512 core GPU with 64 Tensor cores. Eight Carmel cores (NVIDIA’s own custom 64-bit ARM cores) make up the CPU complex, in 4 dual-core clusters. The cores implement ARMv8.2 with RAS support. All cores are cache coherent, which extends to the GPU and other onboard accelerators.
+The NVIDIA Jetson AGX Xavier Developer Kit lets you easily create end-to-end AI robotics applications for manufacturing, delivery, retail, smart cities, and more. The developer kit is supported by NVIDIA JetPack™ and DeepStream SDKs, as well as CUDA®, cuDNN, and TensorRT™ software libraries, giving you all the tools you need to get started right away. And because it’s powered by the NVIDIA Xavier processor, you now have more than 20X the performance and 10X the energy efficiency of its predecessor, NVIDIA Jetson TX2. Get started today with the Jetson AGX Xavier Developer Kit.
 
-The Xavier incorporates dual Programmable Vision Accelerators (PVAs) for helping with common computer vision processing tasks.
+![image](https://github.com/user-attachments/assets/da3c9b1e-2d50-42f0-bcae-5e477dc3879f)
+![image](https://github.com/user-attachments/assets/a497e3e5-5dac-4195-9431-a6e20ed994fe)
+![image](https://github.com/user-attachments/assets/2e8ceba8-85e5-49a1-9868-601eb129a532)
 
-Another accelerators on the Tegra chip is the Deep Learning Accelerator (DLA), a hardware implementation of the NVIDIA NVDLA architecture.
-
-Some great information about the actual Tegra Xavier chip is available on WikiChip: Tegra Xavier.
 
 
   **2. PI CONTROL ON SPEED  DC MOTOR**
