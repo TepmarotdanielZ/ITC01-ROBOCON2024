@@ -107,6 +107,10 @@ of the cultural and spiritual life of the Vietnamese people. Nowadays, rice
 serves as both a vital food source and a strategic export commodity for
 Vietnam.
 
+<p align="center">
+![image](https://github.com/user-attachments/assets/2bb799f8-24f7-47f7-99bd-d79f2d384e64)
+</p>
+
 ![Screenshot 2024-08-22 184731](https://github.com/user-attachments/assets/fb763cf3-5055-4fe7-88e8-2f423c98fa2b)
 
 
