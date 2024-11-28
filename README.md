@@ -108,7 +108,8 @@ serves as both a vital food source and a strategic export commodity for
 Vietnam.
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/2bb799f8-24f7-47f7-99bd-d79f2d384e64)
+![Screenshot 2024-11-28 091848](https://github.com/user-attachments/assets/23328868-4efa-4180-b874-e9da01822a6f)
+
 </p>
 
 ![Screenshot 2024-08-22 184731](https://github.com/user-attachments/assets/fb763cf3-5055-4fe7-88e8-2f423c98fa2b)
